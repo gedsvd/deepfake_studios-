@@ -1,0 +1,8 @@
+{
+  "name": "Remix DeepFake Face Classification",
+  "description": "Enterprise AI neural vision platform for forensic deepfake face classification, biometric optical analysis, and user authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
